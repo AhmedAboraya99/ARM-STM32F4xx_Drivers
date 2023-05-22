@@ -30,3 +30,5 @@ These drivers provide an abstracted interface to the hardware peripherals of the
 ## How to Use
 
 To use this project, you can simply build and flash the code to your STM32F4xx board. The LED connected to pin PA0 should start blinking at a frequency of 1Hz.
+## Project Video
+https://drive.google.com/file/d/1tKdqu6-rq2ouyMHSBAkdiWj_8TiDykg0/view?usp=drivesdk
